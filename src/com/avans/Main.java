@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello Students!");
         System.out.println(sum(12, 12));
+        System.out.println("no");
         debug(10, "A fatal error occurred!");
     }
 
